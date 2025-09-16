@@ -1,10 +1,5 @@
 [
     {
-        "p_rel_url" : "adi-star-could/chitaranjan2/refs/heads/main/2010-12-08.csv",
-        "p_sink_folder" : "2010-12-08",
-        "p_file_name" : "2010-12-08.csv"
-    },
-    {
         "p_rel_url" : "adi-star-could/chitaranjan2/refs/heads/main/Fact_Sales_1.csv",
         "p_sink_folder" : "Fact_Sales_1",
         "p_file_name" : "Fact_Sales_1.csv"
@@ -17,3 +12,4 @@
      
 
 ]
+
